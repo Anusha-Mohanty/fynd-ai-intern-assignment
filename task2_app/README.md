@@ -13,5 +13,7 @@ LLMs are used for:
 - Review summarisation
 - Recommended actions
 
-The application is deployed online as required.
+The application is deployed online on Hugging Face Spaces as required.
+Deployment Link : https://huggingface.co/spaces/AnushaMohanty12/ai-restaurant-feedback
+
 
