@@ -6,9 +6,12 @@ This Streamlit app implements:
 
 Both dashboards use a shared JSON data store.
 
+Model used: Groq API (Free-Tier)
+
 LLMs are used for:
 - User-facing responses
 - Review summarisation
 - Recommended actions
 
 The application is deployed online as required.
+
